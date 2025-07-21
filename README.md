@@ -1,0 +1,1 @@
+# Testing Go and implementing small codes.
